@@ -200,7 +200,7 @@
       <value>Контактное лицо</value>
     </synonym>
     <type>
-      <types>CatalogRef.КонтактныеЛица</types>
+      <types>CatalogRef.ДРБ_КонтактныеЛица</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
@@ -214,7 +214,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="52f7c192-28b7-4cf2-ab65-5bd6ed18cd8d">
-    <name>СогласованнаяСкидка</name>
+    <name>ДРБ_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
       <value>Согласованная скидка</value>
